@@ -1,1 +1,31 @@
-# assignment1
+#  Social Sparks App
+
+##  About the App
+Social Sparks is an Android app built with Kotlin that helps you stay 
+connected with friends and family throughout the day. Simply enter the 
+time of day and get a fun social suggestion!
+
+##  Features
+- Enter time of day to get a social suggestion
+- 6 different sparks: Morning, Mid-morning, Afternoon, Snack Time, Dinner, Night
+- Reset button to clear the input
+- Error handling for invalid inputs
+
+##  Built With
+- Kotlin
+- Android Studio
+- GitHub Actions for automated building
+
+##  Screenshots
+(soon)
+
+##  How to Run
+1. Clone the repository
+2. Open in Android Studio
+3. Run on emulator or device
+
+##  Video Demo
+(soon)
+
+##  Author
+- GitHub: [@Mohammedomar12](https://github.com/Mohammedomar12)
