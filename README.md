@@ -17,7 +17,6 @@ time of day and get a fun social suggestion!
 - GitHub Actions for automated building
 
 ##  Screenshots
-(soon)
 <img width="357" height="790" alt="image" src="https://github.com/user-attachments/assets/23d823ed-6a1b-430b-8d0c-e7732d1720b0" />
 
 ##  How to Run
