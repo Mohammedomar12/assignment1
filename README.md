@@ -24,8 +24,8 @@ time of day and get a fun social suggestion!
 2. Open in Android Studio
 3. Run on emulator or device
 
-##  Video Demo
-(soon)
+##  Video
+(https://www.youtube.com/watch?v=o_4QFA9zB3E)
 
 ##  Author
 - GitHub: [@Mohammedomar12](https://github.com/Mohammedomar12)
