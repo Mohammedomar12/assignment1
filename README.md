@@ -29,3 +29,26 @@ time of day and get a fun social suggestion!
 
 ##  Author
 - GitHub: [@Mohammedomar12](https://github.com/Mohammedomar12)
+
+
+
+
+
+## AI Disclosure / Annexure
+
+Title: Disclosure of AI Usage in my Assessment
+
+Section(s): Full Assignment 1 - Social Sparks App
+
+Name of AI tool used: Claude (Anthropic)
+
+Purpose of use:
+- Brainstorming app structure and design
+- Assistance with Kotlin code writing
+- GitHub Actions setup guidance
+- README structure suggestions
+
+Date(s) used: March 2026
+
+Note: All code was reviewed, understood, and tested personally 
+by the student before submission.
